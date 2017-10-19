@@ -17,6 +17,7 @@ var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var webpack = require('webpack');
 
+var forgeIncludes = require('forge-ui/includes');
 
 // configuration
 var config = {
